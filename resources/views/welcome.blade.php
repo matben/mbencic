@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    <img src="{{ asset('images/under_construction.jpg') }}" alt="working_hard" width="600px" height="500px">
                 </div>
 
                 <div class="links">
